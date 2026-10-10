@@ -6,18 +6,16 @@
 
 <img src="https://raw.githubusercontent.com/deyson24ivan/deyson24ivan/main/assets/presentacion.svg" width="500" height="56" alt="Ingeniero electrónico. IoT, web y videojuegos. Creativo, adaptable y curioso." />
 
-<br /><br />
+
 
 <a href="mailto:deyson.24ivan@gmail.com"><img src="https://img.shields.io/badge/CORREO-HABLEMOS-FF8296?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=252830" alt="Correo: hablemos" /></a>
 <a href="https://github.com/deyson24ivan?tab=repositories"><img src="https://img.shields.io/badge/PROYECTOS-VER_C%C3%93DIGO-FF8296?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=252830" alt="Ver mis proyectos en GitHub" /></a>
 
-<br /><br />
+
 
 `🇨🇴 Colombia` &nbsp; `Creatividad` &nbsp; `Aprendizaje continuo`
 
 </div>
-
-<br />
 
 ---
 
@@ -115,13 +113,13 @@ El montaje físico es un **piloto de un carril**. El mapa de nueve carriles y 18
 
 <img src="https://skillicons.dev/icons?i=html,css,react,ts,vite&amp;theme=dark" height="48" alt="HTML, CSS, React, TypeScript y Vite" />
 
-<br /><br />
+
 
 **Backend y datos**
 
 <img src="https://skillicons.dev/icons?i=py,flask,postgres,mysql&amp;theme=dark" height="48" alt="Python, Flask, PostgreSQL y MySQL" />
 
-<br /><br />
+
 
 **Electrónica y desarrollo de juegos**
 
@@ -136,8 +134,6 @@ ESP32 · Sensores magnéticos · MQTT
 <img src="https://skillicons.dev/icons?i=git,github&amp;theme=dark" height="48" alt="Git y GitHub" />
 
 </div>
-
-<br />
 
 ---
 
