@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/deylla-pixel.svg" width="100%" alt="DEYLLA, en letras de estilo retro." />
+<img src="https://raw.githubusercontent.com/deyson24ivan/deyson24ivan/main/assets/deylla-pixel.svg" width="100%" alt="DEYLLA, en letras de estilo retro." />
 
 <br />
 
-<img src="./assets/presentacion.svg" width="500" height="56" alt="Ingeniero electrónico. IoT, web y videojuegos. Creativo, adaptable y curioso." />
+<img src="https://raw.githubusercontent.com/deyson24ivan/deyson24ivan/main/assets/presentacion.svg" width="500" height="56" alt="Ingeniero electrónico. IoT, web y videojuegos. Creativo, adaptable y curioso." />
 
 <br /><br />
 
